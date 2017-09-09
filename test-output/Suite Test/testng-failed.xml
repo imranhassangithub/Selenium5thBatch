@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite Test]">
+  <test name="DriverTest(failed)">
+    <classes>
+      <class name="com.bitm.newtours5th.Test.LoginTest">
+        <methods>
+          <include name="checkloginpagetitle"/>
+        </methods>
+      </class> <!-- com.bitm.newtours5th.Test.LoginTest -->
+    </classes>
+  </test> <!-- DriverTest(failed) -->
+</suite> <!-- Failed suite [Suite Test] -->
