@@ -5,6 +5,7 @@
     <classes>
       <class name="com.bitm.newtours5th.Test.LoginTest">
         <methods>
+          <include name="logintest" invocation-numbers="0"/>
           <include name="checkloginpagetitle"/>
         </methods>
       </class> <!-- com.bitm.newtours5th.Test.LoginTest -->
